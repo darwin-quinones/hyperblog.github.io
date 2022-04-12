@@ -4,6 +4,7 @@ Darwin tiene 20 años y nació en Colombia en El Banco Magdalena
 
 Mañana nos enfocaremos en su vida privada.
 Darwin es Programador de Software.
-darwinquinones es un colaborador de Darwin. Pero son los mismos. :) Ahora va agregar una descripcion
+darwinquinones es un colaborador de Darwin. Pero son los mismos. :) Ahora va agregar una descripcion.
+Hola darwinquinones
 Hice unos cambios en el blogpost.html
 Quiero saber como usar git diff
