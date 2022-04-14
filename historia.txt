@@ -8,3 +8,4 @@ darwinquinones es un colaborador de Darwin. Pero son los mismos. :) Ahora va agr
 Hola darwinquinones
 Hice unos cambios en el blogpost.html
 Quiero saber como usar git diff
+clonacin de nuevo debido a un error
